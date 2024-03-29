@@ -29,5 +29,5 @@
   <a href="https://discord.gg/wV2WamExr5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:otakuzintv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <img align="center" alt="Snake Animation" height="500" width="800" src="https://raw.githubusercontent.com/cronegamesplays/cronegamesplays/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="Snake Animation" height="200" width="800" src="https://raw.githubusercontent.com/cronegamesplays/cronegamesplays/output/github-contribution-grid-snake-dark.svg">
 </div>
