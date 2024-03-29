@@ -14,13 +14,13 @@
   <img align="center" alt="Crone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Crone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Crone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Crone-Icon" height="30" width="40" src="https://github.com/cronegamesplays/cronegamesplays/assets/77684277/154eff6b-6d88-4a77-a63d-70fc5df85faa">
+  <img align="right" alt="Crone-Icon" height="150" width="150" src="https://github.com/cronegamesplays/cronegamesplays/assets/77684277/154eff6b-6d88-4a77-a63d-70fc5df85faa">
 </div>
 
-<div>
-  <img align="center" alt="Crone-Banner" height="30" width="40" src="">
-</div>
 ##
+<div>
+  <img align="center" alt="Crone-Banner" height="300" width="500" src="https://github.com/cronegamesplays/cronegamesplays/assets/77684277/5c7635d4-83ef-47aa-98c1-6d4e33cf897d">
+</div>
 
 <div> 
   <a href="https://www.youtube.com/channel/UCeicxKqx4gkBty8AoyjOgOg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -30,4 +30,4 @@
   <a href = "mailto:otakuzintv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation]()
+<img align="center" alt="Crone-Banner" height="300" width="500" src="https://github.com/cronegamesplays/cronegamesplays/blob/output/github-contribution-grid-snake.svg">
