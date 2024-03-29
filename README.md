@@ -19,7 +19,7 @@
 
 ##
 <div>
-  <img align="center" alt="Crone-Banner" height="300" width="500" src="https://github.com/cronegamesplays/cronegamesplays/assets/77684277/5c7635d4-83ef-47aa-98c1-6d4e33cf897d">
+  <img align="center" alt="Crone-Banner" height="450" width="800" src="https://github.com/cronegamesplays/cronegamesplays/assets/77684277/5c7635d4-83ef-47aa-98c1-6d4e33cf897d">
 </div>
 
 <div> 
@@ -30,4 +30,5 @@
   <a href = "mailto:otakuzintv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img align="center" alt="Crone-Banner" height="300" width="500" src="https://github.com/cronegamesplays/cronegamesplays/blob/output/github-contribution-grid-snake.svg">
+<img align="center" alt="Crone-Banner" height="300" width="500" src="https://raw.githubusercontent.com/cronegamesplays/cronegamesplays/output/github-contribution-grid-snake-dark.svg">
+[]
