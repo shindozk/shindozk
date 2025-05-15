@@ -40,7 +40,7 @@ Olá mundo! Sou um desenvolvedor apaixonado por criar experiências digitais ele
 ## 📌 Projetos em Destaque
 
 <div align="center">
-  <a href="https://shindozkdev.netlify.app/">
+  <a href="https://shindozkdev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-5D5CDE?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <!-- Adicione mais projetos conforme necessário -->
