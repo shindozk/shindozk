@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/shindozk/shindozk/assets/77684277/154eff6b-6d88-4a77-a63d-70fc5df85faa" width="100" height="100" style="border-radius: 50%;" />
   
-  # Felipe Braga (ShindoZk)
+  # ShindoZk
   
   <p><em>Desenvolvedor Full Stack | Entusiasta de Tecnologia</em></p>
   
