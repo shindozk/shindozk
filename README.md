@@ -1,61 +1,44 @@
-<div align="center">
-  <img src="https://github.com/shindozk/shindozk/assets/77684277/154eff6b-6d88-4a77-a63d-70fc5df85faa" width="100" height="100" style="border-radius: 50%;" />
-  
-  # ShindoZk
-  
-  <p><em>Desenvolvedor Full Stack | Entusiasta de Tecnologia</em></p>
-  
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeicxKqx4gkBty8AoyjOgOg)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_felipebragabest/)
-  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/cronegamesplays)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wV2WamExr5)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:otakuzintv@gmail.com)
-</div>
+# ⚡ Hi, I'm ShindoZk
 
-<img src="https://github.com/shindozk/shindozk/assets/77684277/5c7635d4-83ef-47aa-98c1-6d4e33cf897d" width="100%" style="border-radius: 8px; margin: 20px 0;" />
+**Developer | Tech Enthusiast | Problem Solver**
 
-## 💫 Sobre Mim
+<p align="left">
+<img src="https://iili.io/q225iXV.png" alt="shindozk" />
+</p>
 
-Olá mundo! Sou um desenvolvedor apaixonado por criar experiências digitais elegantes e funcionais. Meu foco está em desenvolvimento web com Vue.js e outras tecnologias front-end modernas, sempre buscando expandir meu conhecimento e habilidades técnicas.
+### 🚀 About Me
 
-## 📊 Minhas Estatísticas
+I am a passionate developer focused on building efficient, scalable, and user-centric solutions. Whether it's crafting clean code or diving into new frameworks, I thrive on the challenge of turning complex problems into elegant software.
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shindozk&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117"/>
-</div>
+* 🔭 **Current Focus:** Building [Project Name or Field, e.g., Decentralized Apps / Modern Web APIs]
+* 🌱 **Learning:** Currently mastering [Technology, e.g., Rust, Advanced TypeScript, or Go]
+* 💬 **Ask me about:** [Topic, e.g., React, Backend Architecture, or Game Dev]
+* ⚡ **Fun Fact:** [Insert a quick witty fact about yourself here!]
 
-## 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
+| Category | Tools & Technologies |
+| --- | --- |
+| **Frontend** |  |
+| **Backend** |  |
+| **DevOps/Tools** |  |
 
-## 📌 Projetos em Destaque
+### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://shindozkdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-5D5CDE?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <!-- Adicione mais projetos conforme necessário -->
-</div>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dshindozk%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="ShindoZk's GitHub Stats" />
 
-## 🌱 Atualmente Aprendendo
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dshindozk%26layout%3Dcompact%26theme%3Dtokyonight" alt="Most Used Languages" />
+</p>
 
-- Aprimorando habilidades em **Vue.js** e **Nuxt.js**
-- Explorando desenvolvimento backend com **Python**
-- Estudando novas tecnologias para desenvolvimento web
+### 📫 Connect with me
 
-## 🤝 Vamos Conectar
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ShindoZk" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShindoZk" height="30" width="40" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email Shindo" height="30" width="30" /></a>
+</p>
 
-Sinta-se à vontade para entrar em contato comigo através das redes sociais acima ou envie um email para [otakuzintv@gmail.com](mailto:otakuzintv@gmail.com).
+### 🏆 Featured Projects
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shindozk/shindozk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
+> **[Project Name]** > *Brief description of what the project does and the impact it has.* > **[View Repo]()** | **[Live Demo]()**
