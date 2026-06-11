@@ -56,6 +56,9 @@ Currently, I'm the creator of **Kandaraku** — an open-source collaborative dat
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wV2WamExr5)
   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shindozk)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ShindoZkOfficial)
+  
+  <img src="https://iili.io/CCoJIGj.gif" />
+  
 </div>
 
 ---
