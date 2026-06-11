@@ -20,7 +20,7 @@
 
 I'm a passionate **full-stack developer** focused on building clean, scalable and community-driven applications. 
 
-Currently, I'm the creator of **Kandaraku** — an open-source collaborative database and npm API for anime, manga, films, and otaku culture.
+Currently, I'm the creator of **Kandaraku** — an collaborative database and npm API for anime, manga, films, and otaku culture.
 
 ---
 
