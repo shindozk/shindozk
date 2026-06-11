@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm ShindoZk 👋</h1>
   
-  <p><strong>Full-Stack Developer</strong> from Minas Gerais, Brazil 🇧🇷</p>
+  <p><strong>Full-Stack Developer</strong> from Rio de Janeiro, Brazil 🇧🇷</p>
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
